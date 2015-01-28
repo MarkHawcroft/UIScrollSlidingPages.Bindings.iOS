@@ -10,26 +10,30 @@
 	<string>UIScrollSlidingPagesBindings</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>03B37B4E-C0A9-49E0-9B29-90EA14DCBD50</key>
-		<string>https://github.com/brendankowitz/UIScrollSlidingPages.Bindings.iOS.git</string>
+		<key>52C70E809FA71F8FCDC9039861B7615C6064CE21</key>
+		<string>git://github.com/brendankowitz/UIScrollSlidingPages.git</string>
 		<key>9BD36EA1-77BB-4D5F-8E6F-CC53ABD39E9A</key>
 		<string>git://github.com/TomThorpe/UIScrollSlidingPages.git</string>
+		<key>AF76E81BD4C22105E2D7FC19D6445C7BB167192B</key>
+		<string>https://github.com/brendankowitz/UIScrollSlidingPages.Bindings.iOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>vendor/UIScrollSlidingPagesBindings/UIScrollSlidingPagesBindings.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>03B37B4E-C0A9-49E0-9B29-90EA14DCBD50</key>
-		<string>../../../..</string>
+		<key>52C70E809FA71F8FCDC9039861B7615C6064CE21</key>
+		<string>../../../../vendor/UIScrollSlidingPages</string>
 		<key>9BD36EA1-77BB-4D5F-8E6F-CC53ABD39E9A</key>
-		<string>../../UIScrollSlidingPages</string>
+		<string>../../../../../UIScrollSlidingPages</string>
+		<key>AF76E81BD4C22105E2D7FC19D6445C7BB167192B</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/brendankowitz/UIScrollSlidingPages.Bindings.iOS.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>03B37B4E-C0A9-49E0-9B29-90EA14DCBD50</string>
+	<string>AF76E81BD4C22105E2D7FC19D6445C7BB167192B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -44,7 +48,15 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>03B37B4E-C0A9-49E0-9B29-90EA14DCBD50</string>
+			<string>52C70E809FA71F8FCDC9039861B7615C6064CE21</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIScrollSlidingPages</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF76E81BD4C22105E2D7FC19D6445C7BB167192B</string>
 			<key>IDESourceControlWCCName</key>
 			<string>UIScrollSlidingPages.Bindings.iOS</string>
 		</dict>
